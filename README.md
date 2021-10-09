@@ -1,3 +1,3 @@
 # loan-payments
 
-- push to heroku-deploy to trigger deployment
+- push deploy-heroku branch to trigger deployment
