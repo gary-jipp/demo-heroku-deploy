@@ -1,0 +1,28 @@
+
+table.striped>tbody>tr:nth-child(odd) {
+  background-color: rgba(170, 213, 213, 0.5);
+}
+
+table.highlight>tbody>tr:hover {
+  background-color: rgba(170, 213, 213, 0.5);
+}
+
+th,
+td {
+  text-align: right;
+}
+
+table td:nth-child(3) {
+  color: #1976D2
+}
+table td:nth-child(4) {
+  color: green
+}
+
+table th:nth-child(1),
+td:nth-child(1) {
+  text-align: left;
+}
+
+/* span { padding: 0px; border:1px solid #42a5f5; } */
+/* div { border:1px solid red; } */
