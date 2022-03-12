@@ -19,13 +19,8 @@
     "url": "git+https://github.com/gary-jipp/loan-payments.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gary",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gary-jipp/loan-payments/issues"
-  },
-  "homepage": "https://github.com/gary-jipp/loan-payments#readme",
-  "dependencies": {
-    "yarn": "^1.22.10"
-  }
+  "bugs": {},
+  "dependencies": {}
 }
